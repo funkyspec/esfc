@@ -1,7 +1,3 @@
-<?php
-    echo $_GET['email'];
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
